@@ -50,7 +50,10 @@ ENTRY/EXIT条件を記述したPythonコード（コメント付き）
 エクイティカーブと統計レポート付きグラフ
 
 使用したインジケーターや戦略の説明資料（日本語）
-
+https://github.com/Sasu8823/bybit_strategy_project/blob/main/results/1pct_per_day_equity_curve.png
+https://github.com/Sasu8823/bybit_strategy_project/blob/main/results/advanced_strategy_results.png
+https://github.com/Sasu8823/bybit_strategy_project/blob/main/results/backtest_results.png
+https://github.com/Sasu8823/bybit_strategy_project/blob/main/results/equity_curve.png
 ## ⚠ 注意事項
 グラフや収益の捏造は禁止
 
