@@ -54,6 +54,7 @@ results/1pct_per_day_equity_curve.png
 results/advanced_strategy_results.png
 results/backtest_results.png
 https://github.com/Sasu8823/bybit_strategy_project/blob/main/results/equity_curve.png
+https://github.com/Sasu8823/bybit_strategy_project/blob/main/results/1pct_per_day_equity_curve.png?raw=true
 ## ⚠ 注意事項
 グラフや収益の捏造は禁止
 
